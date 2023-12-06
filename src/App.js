@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -17,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <h3>LÚCIO JOSÉ</h3>
+        <h3>Canga Dev</h3>
       </header>
     </div>
   );
